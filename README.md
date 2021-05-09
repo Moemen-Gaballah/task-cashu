@@ -13,7 +13,7 @@ It's just like any other Laravel project. Basically here is how you use it for y
 * Clone the repo `git clone https://github.com/Moemen-Gaballah/task-cashu.git `
 * `cd ` to project folder.
 * Run ` composer install `
-* Save as the `.env.example` to `.env` and set your database information and mail
+* Rename `.env.example` to `.env` and set your database information and mail
 * Run ` php artisan key:generate` to generate the app key
 * Run ` php artisan migrate:fresh --seed `
 * Email For SuberAdmin ` moemengaballa@gmail.com`
